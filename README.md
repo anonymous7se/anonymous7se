@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sarvar from Tashkent.
 - 👀 I’m interested in web and mobile programming
 - 🌱 I’m currently learning Dart, Flutter, Spring boot, React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tg: @anonymoues7se 
 
 <!---
