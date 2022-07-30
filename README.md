@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarvar from Tashkent.
 - 👀 I’m interested in web and mobile programming
 - 🌱 I’m currently learning Dart, Flutter, Spring boot, React
-- 📫 How to reach me tg: @anonymoues7se 
+- 📫 telegram: @anonymoues7se 
 
 <!---
 anonymous7se/anonymous7se is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
